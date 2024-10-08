@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+.main-cnt{
+    height: 600px;
+    width: 320px;
+    border: 1px solid black;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.info{
+    height: 151px;
+    width: 100%;
+    border: 1px solid white;
+    margin: 450px 0 0 0;
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h3{
+    margin: 20px 0 0 20px;
+    color: rgb(13, 28, 72);
+}
+
+p{
+    margin: 10px 0 0 20px;
+    color: gray;
+    font-size: 15px;
+}
+
+.button1{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    margin: 20px 0 0 20px;
+    border-radius: 5px;
+}
+
+.button2{
+    height: 30px;
+    width: 70px;
+    background-color: rgb(1, 133, 249);
+    color: white;
+    border-radius: 5px;
+}

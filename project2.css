@@ -1,0 +1,131 @@
+body{
+    background-color: black;
+}
+
+.main-cnt{
+    height: 600px;
+    width: 400px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.main-pic{
+    height: 200px;
+    width: 100%;
+    border: 1px solid gray;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.mrXdydKsjE7keg9M55sqGAHaDd&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diwali-cnt{
+    height: 360px;
+    width: 100%;
+    border: 1px solid rgba(238, 241, 243, 0.96);
+    background-color: rgba(210, 234, 244, 0.96);
+}
+
+.diwali-cnt1{
+    height: 120px;
+    width: 70%;
+    /* border: 1px solid black; */
+    margin: 20px 0 0 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.balloon{
+    height: 100%;
+    width: 45%;
+    background-color: #fff;
+    border-radius: 10px;
+    line-height: 0.5px;
+}
+
+.balloonpic{
+    height: 60px;
+    width: 50px;
+    margin: 10px 0 0 40px;
+    background-image: url(ballon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+}
+
+h5{ 
+    text-align: center;
+}
+
+.lamp{
+    height: 100%;
+    width: 45%;
+    background-color: #fff;
+    border-radius: 10px;
+    line-height: 0.5px;
+}
+
+.lamppic{
+    height:60px;
+    width: 70%;
+    margin: 10px 0 0 20px;
+    background-image: url(lamp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diwali-cnt2{
+    height: 120px;
+    width: 70%;
+    /* border: 1px solid black; */
+    margin: 20px 0 0 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sparklers{
+    height: 100%;
+    width: 45%;
+    background-color: #fff;
+    border-radius: 10px;
+    line-height: 0.5px;
+}
+
+.sparklerspic{
+    height: 60px;
+    width: 50px;
+    margin: 10px 0 0 40px;
+    background-image: url(sparklers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.crackers{
+    height: 100%;
+    width: 45%;
+    background-color: #fff;
+    border-radius: 10px;
+    line-height: 0.5px;
+}
+
+.crackerspic{
+    height: 60px;
+    width: 60px;
+    margin: 10px 0 0 40px;
+    background-image: url(crackers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    height: 30px;
+    width: 50px;
+    background-color: rgb(1, 133, 249);
+    color: white;
+    border-radius: 5px;
+    margin: 20px 0 0 170px;
+}

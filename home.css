@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+}
+
+.main-cnt{
+    height: 600px;
+    width: 400px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: white;
+}
+
+.mainpic{
+    height: 250px;
+    width: 70%;
+    /* background-color: pink; */
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/software-developer-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 0 0 30px;
+}
+
+.projectintro{
+    height: 80px;
+    width: 100%;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 12px;
+}
+
+h2{
+    color: rgb(19, 33, 76);
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+p{
+    color: gray;
+    font-size: 12px;
+}
+
+.project1-2{
+    height: 100px;
+    width: 80%;
+    border: 1px solid white;
+    margin: 10px 0 0 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.project1{
+    height: 100%;
+    width: 152px;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.project2{
+    height: 100%;
+    width: 152px;
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.mrXdydKsjE7keg9M55sqGAHaDd&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+.project3-4{
+    height: 100px;
+    width: 80%;
+    border: 1px solid white;
+    margin: 10px 0 0 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.project3{
+    height: 100%;
+    width: 152px;
+    background-image: url(https://i.pinimg.com/564x/9a/38/0a/9a380aaf30930619b135769e46cf1914.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+
+
+.project4{
+    height: 100%;
+    width: 152px;
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/news-paper-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+}
+
+.main-cnt{
+    height: 600px;
+    width: 400px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(https://i.pinimg.com/564x/9a/38/0a/9a380aaf30930619b135769e46cf1914.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.happymeal{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(245, 182, 67);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 450px 0 0 0;
+}
+
+.text{
+    height: 80%;
+    width: 90%;
+    border: 1px solid rgb(245, 182, 67);
+    margin: 0 0 0 20px;
+    color: rgb(2, 2, 33);
+}
+
+.book{
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
+.back{
+    height: 30px;
+    width: 50px;
+    background-color: rgb(1, 133, 249);
+    color: white;
+    border-radius: 5px;
+    /* margin: 20px 0 0 170px; */
+}
